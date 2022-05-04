@@ -35,10 +35,10 @@ H are some ideas to get you started:
 
 </a>
 ![NANDA KISHORE's github stats](https://github-readme-stats.vercel.app/api?username=nandakishore1807&show_icons=true&theme=radical)
-<div>
 
-      <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api?username=AnilKumarTeegala&show_icons=true&theme=prussian height=202, width=60% />
 
-    <img style="zoom:100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=AnilKumarTeegala&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript height=202 width=30% />
 
-</div>
+
+
+
+
